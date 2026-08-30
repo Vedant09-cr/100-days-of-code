@@ -19,7 +19,7 @@ int main() {
     int num1, num2, sum;
 
     printf("Enter the first number: ");
-    scanf("%d", &num1);
+    scanf("%d", &num1);git pull origin main --allow-unrelated-histories
 
     printf("Enter the second number: ");
     scanf("%d", &num2);
